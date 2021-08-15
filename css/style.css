@@ -1,0 +1,31 @@
+body {
+	background-color: #867aab;
+}
+.login-block {
+	margin: auto;
+	width: 20em;
+	margin-top: 10em;
+}
+.error-message {
+	color: red;
+	text-align: center;
+	font: 16px;
+	margin-bottom: 10px;
+}
+h2 {
+	text-align: center;
+	padding-top: 2em;
+}
+.logout {
+	float: right;
+	margin: 0.5em 3em;
+}
+.user-info {
+	width: 60%;
+	margin-left: 20%;
+}
+.user-info td {
+	padding: 8px;
+	border-style: solid;
+	border-width: 1px;
+}
